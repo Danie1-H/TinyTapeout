@@ -17,4 +17,4 @@ Turn one switch on at a time starting at the top and see if the correct number i
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
