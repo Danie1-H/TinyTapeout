@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Many or gates are conected to take 1 switch high and turn the relevant seven segment sections on.
 
 ## How to test
 
-Explain how to use your project
+Turn one switch on at a time starting at the top and see if the correct number is shown on the seven segment display.
 
 ## External hardware
 
